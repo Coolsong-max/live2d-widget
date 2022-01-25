@@ -93,7 +93,7 @@
 		"selector": "a[itemprop='discussionUrl']",
 		"text": ["要去看看评论吗？"]
 	}, {
-		"selector": ".beian a",
+		"selector": "#beian",
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
 	}, {
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
@@ -105,6 +105,21 @@
 		"selector": ".reward-container",
 		"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
+		"selector": "#github",
+		"text": ["Github! Yes!"]
+	}, {
+		"selector": "#yiyan",
+		"text": ["不错的一句话呢～"]
+	}, {
+		"selector": "#music",
+		"text": ["音乐总能治愈人心呢～", "听首歌吧～"]
+	}, {
+		"selector": "#qq",
+		"text": ["主人的企鹅账号耶～"]
+	}, {
+		"selector": "#avatar",
+		"text": ["主人的头像呢～", "好像是在pixiv上发现的呢～"]
+	}, {
 		"selector": "#wechat",
 		"text": ["这是我的微信二维码～", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
@@ -114,8 +129,8 @@
 		"selector": "#bitcoin",
 		"text": ["这是我的比特币账号！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
-		"selector": "#needsharebutton-postbottom .btn",
-		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
+		"selector": ".btn",
+		"text": ["噢？这是一个按钮", "按了会通向什么地方呢？"]
 	}, {
 		"selector": ".need-share-button_weibo",
 		"text": ["微博？来分享一波喵！"]
@@ -134,6 +149,9 @@
 	}, {
 		"selector": "#facebook",
 		"text": ["emmm…FB 好像也是不存在的东西？"]
+	}, {
+		"selector": "#telegram",
+		"text": ["Telegram？长得像个纸飞机呢～"]
 	}, {
 		"selector": ".post-nav-item a[rel='next']",
 		"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
@@ -176,7 +194,7 @@
 	}],
 	"click": [{
 		"selector": "#live2d",
-		"text": ["是…是不小心碰到了吧…", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110 吗，这里有个变态一直在摸我(ó﹏ò｡)", "不要摸我了，我会告诉主人来打你的！", "干嘛动我呀！小心我咬你！", "别摸我，有什么好摸的！"]
+		"text": ["再摸的话我可要报警了！⌇●﹏●⌇", "110 吗，这里有个变态一直在摸我(ó﹏ò｡)", "不要摸我了，我会告诉主人来打你的！", "干嘛动我呀！小心我咬你！", "别摸我，有什么好摸的！"]
 	}, {
 		"selector": ".veditor",
 		"text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
@@ -211,6 +229,9 @@
 	}, {
 		"date": "09/10",
 		"text": "<span>教师节</span>，在学校要给老师问声好呀～"
+	}, {
+		"date": "09/14",
+		"text": "<span>生日</span>，今天是主人的生日呢！"
 	}, {
 		"date": "10/01",
 		"text": "<span>国庆节</span>到了，为祖国母亲庆生！"

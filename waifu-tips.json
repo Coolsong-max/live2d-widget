@@ -105,11 +105,17 @@
 		"selector": ".reward-container",
 		"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
+		"selector": ".card-webinfo",
+		"text": ["QwQ才这点访问量，帮我宣传一下吧＞﹏＜"]
+	}, {
 		"selector": "#github",
 		"text": ["Github! Yes!"]
 	}, {
 		"selector": "#yiyan",
 		"text": ["不错的一句话呢～"]
+	}, {
+		"selector": "#poem",
+		"text": ["经典的诗句可不能忘～"]
 	}, {
 		"selector": "#music",
 		"text": ["音乐总能治愈人心呢～", "听首歌吧～"]

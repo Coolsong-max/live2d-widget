@@ -1,4 +1,5 @@
-# Live2D Widget
+# Live2D Widget 二改版
+# For Coolsong的个人主页：[https://www.coolsong.tk](https://www.coolsong.tk)
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)

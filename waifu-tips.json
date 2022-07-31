@@ -58,7 +58,7 @@
 		"text": ["这里可以使用 RSS 订阅呢！", "利用 feed 订阅器，就能快速知道博客有没有更新了呢。"]
 	}, {
 		"selector": ".cc-opacity, .post-copyright-author",
-		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
+		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
 	}, {
 		"selector": ".links-of-author",
 		"text": ["这里是主人的常驻地址哦。", "这里有主人的联系方式！"]
@@ -93,16 +93,16 @@
 		"selector": "a[itemprop='discussionUrl']",
 		"text": ["要去看看评论吗？"]
 	}, {
-		"selector": "#beian",
+		"selector": "#icp",
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
 	}, {
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
 	}, {
-		"selector": ".back-to-top",
+		"selector": ".backTop",
 		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
 	}, {
-		"selector": ".reward-container",
+		"selector": ".reward",
 		"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
 		"selector": ".card-webinfo",
